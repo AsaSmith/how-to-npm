@@ -8,6 +8,10 @@
   },
   "author": "Asa Smith",
   "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/AsaSmith/how-to-npm"
+},
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
